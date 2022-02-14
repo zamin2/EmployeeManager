@@ -6,3 +6,5 @@ An android application, built in Java. The application is connected to a Firebas
 [Click here to access the tutorial document](DMIT2504ProjectTutorial.docx)
 
 ## Android Studio is required to run the application.
+
+Note: I developed this project under a GitHub repository provided by my institution. It appears I don't have access to fork the course repository into my GitHub profile, so I copied the contents of the project and pasted into a newly created repository in my profile. 
