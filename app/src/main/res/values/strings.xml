@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Employee Manager</string>
+    <string name="add_new_employee">Add New Employee</string>
+    <string name="button_add_text">Add</string>
+    <string name="employee_name_text">Employee Name</string>
+    <string name="employee_role">Role</string>
+    <string name="employee_email_address">Email Address</string>
+    <string name="btn_edit_text">Edit</string>
+    <string name="btn_delete_text">Delete</string>
+    <string name="update_popup_title">Update Details</string>
+    <string name="employee_name">Name</string>
+    <string name="employee_profile_url">Profile URL</string>
+    <string name="btn_update_txt">Update</string>
+</resources>
